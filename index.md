@@ -1,3 +1,6 @@
+![kanji_icon](https://user-images.githubusercontent.com/516688/147009724-d866ef88-0db5-4273-a280-e122f29cdc21.png)
+
+
 # Kanji Love
 
 ## Daily Flash Cards for Kanji.
