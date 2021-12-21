@@ -1,4 +1,4 @@
-## Kanji Lova
+## Kanji Love
 
 Daily Flash Cards for Kanji
 
