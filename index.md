@@ -11,3 +11,5 @@ PLEASE NOTE: Kanji Love does require you to know hiragana/katakana since it does
 [Download On The App Store](https://apps.apple.com/us/app/kanji-love/id1588647247)
 
 [Privacy Policy](https://abilenky.github.io/kanjilove/privacy_policy)
+
+*Copyright © 2021 Aaron Bilenky. All rights reserved.*
