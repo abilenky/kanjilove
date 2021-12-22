@@ -12,6 +12,7 @@ PLEASE NOTE: Kanji Love does require you to know hiragana/katakana since it does
 
 [**Download On The App Store**](https://apps.apple.com/us/app/kanji-love/id1588647247)
 
+<BR />
 
 <HR/>
 
